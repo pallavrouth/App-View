@@ -1,3 +1,3 @@
 # App view
 
-![](https://github.com/pallavrouth/PDFstorage/blob/main/Untitled.gif)
+![](https://github.com/pallavrouth/App-View/blob/main/output.gif)
